@@ -2,6 +2,9 @@
 
 ## YouTube Link:
 
+## Updated yaml file
+https://github.com/nada0038/CST8915-LAB-8/blob/main/aps-all-in-one.yaml
+
 
 ### Services Deployed
 
@@ -42,4 +45,3 @@ All images were built and pushed to Docker Hub under the username **`nada0038`**
 
 
 
-Updated yaml file
