@@ -21,8 +21,8 @@ The following services are deployed and running:
 
 ## Access
 
-- **Store Frontend:** [http://64.236.250.96](http://64.236.250.96)  
-- **Store Admin:** [http://23.96.223.181](http://23.96.223.181)  
+- **Store Frontend:** [http://64.236.250.96] 
+- **Store Admin:** [http://23.96.223.181]  
 
 
 ## Docker Images
