@@ -41,3 +41,5 @@ All images were built and pushed to Docker Hub under the username **`nada0038`**
 | mongodb                | mongo:6.0 |
 
 
+
+Updated yaml file
