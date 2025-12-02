@@ -1,6 +1,7 @@
 # CST8915 - Lab 8: Full-stack Cloud-native Application Deployment
 
 ## YouTube Link:
+https://youtu.be/79ZFCHvbyCQ
 
 ## Updated yaml file
 https://github.com/nada0038/CST8915-LAB-8/blob/main/aps-all-in-one.yaml
