@@ -5,6 +5,7 @@ https://youtu.be/79ZFCHvbyCQ
 
 ## Updated yaml file
 https://github.com/nada0038/CST8915-LAB-8/blob/main/aps-all-in-one.yaml
+https://github.com/nada0038/CST8915-LAB-8/blob/main/aps-all-in-one-Task2.yaml
 
 ## Explanation
 I added persistent storage and enabled high availability to enhance the MongoDB and RabbitMQ deployments. In order to enable reliable DNS domains needed for replica-set operation, MongoDB was converted to a StatefulSet with several replicas, each utilising its own PersistentVolumeClaim. Additionally, the service was made headless. Mounting a PersistentVolume at /var/lib/rabbitmq improved RabbitMQ by preventing queues and messages from being lost during pod restarts. Both services are now robust and fault-tolerant thanks to these modifications. Additionally, I found that Azure Cosmos DB (MongoDB API) and Azure Service Bus are fully managed cloud substitutes that offer inherent dependability without requiring Kubernetes to support stateful workloads.
