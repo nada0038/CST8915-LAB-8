@@ -28,8 +28,8 @@ The following services are deployed and running:
 
 ## Access
 
-- **Store Frontend:** [http://64.236.250.96] 
-- **Store Admin:** [http://23.96.223.181]  
+- **Store Frontend:** http://172.183.106.122
+- **Store Admin:** http://130.131.68.191
 
 
 ## Docker Images
